@@ -9,5 +9,5 @@ A python scripting playground for Cube World version **0.9.1-5**.
 
 ## Usage
 1. Load the compiled DLL into Cube World with any DLL injector, [Xenos](https://github.com/DarthTon/Xenos) for example.
-2. Place a `script.py` file in your Cube World folder. Check out the [example scripts]()
+2. Place a `script.py` file in your Cube World folder. Check out the [example scripts](https://github.com/CWTesseract/Cwapy/tree/master/example_scripts)
 3. The script will be ran when you press `Y`.
