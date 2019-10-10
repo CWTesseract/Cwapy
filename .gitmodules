@@ -1,0 +1,3 @@
+[submodule "CWTCore"]
+	path = CWTCore
+	url = https://github.com/CWTesseract/CWTCore
