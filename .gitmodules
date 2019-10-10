@@ -1,3 +1,6 @@
 [submodule "CWTCore"]
 	path = CWTCore
 	url = https://github.com/CWTesseract/CWTCore
+[submodule "Cwapy/pybind11"]
+	path = Cwapy/pybind11
+	url = https://github.com/pybind/pybind11
